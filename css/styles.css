@@ -7,9 +7,21 @@
     width: 350px;
     float: left;
   }
+#column2 {
+  color: darkgoldenrod;
+}
+#column3 {
+  color: rgb(233, 22, 68);
+}
 .important {
     color: red;
   }
 .unimportant {
-    color: blue;
+    color: rgb(98, 207, 25);
   }
+.main  {
+  color: rgb(96, 18, 168);
+}
+.cat-climate {
+  color: rgb(90, 61, 16);
+}
