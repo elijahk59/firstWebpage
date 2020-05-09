@@ -8,7 +8,7 @@
             "type": "chrome",
             "request": "launch",
             "name": "Launch Chrome against localhost",
-            "url": "/home/elijah/Documents/moringa-school-projects/canvas practice/Floats/float",
+            "url": "/home/elijah/Documents/moringa-school-projects/canvas practice/Floats/index.html",
             "webRoot": "${workspaceFolder}"
         }
     ]
